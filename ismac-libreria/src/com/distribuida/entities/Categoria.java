@@ -11,7 +11,7 @@ public class Categoria {
 	private int idCategoria;
 	private String categoria;
 	private String descripcion;
-	//15648489
+	//1564848
 public Categoria() {}
 
 public Categoria(int idCategoria, String categoria, String descripcion) {
